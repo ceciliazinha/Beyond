@@ -6,17 +6,13 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Foice
+  m_Name: branco
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
-<<<<<<< HEAD
-    m_StateMachine: {fileID: 1107818016720538078}
-=======
-    m_StateMachine: {fileID: 1107800882428535180}
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+    m_StateMachine: {fileID: 1107670625771229144}
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -26,18 +22,14 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
-<<<<<<< HEAD
---- !u!1102 &1102229114000588120
-=======
---- !u!1102 &1102172058874010586
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+--- !u!1102 &1102632289388526990
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: arcane-projectiles
+  m_Name: inicioanim
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -50,21 +42,13 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-<<<<<<< HEAD
-  m_Motion: {fileID: 7400000, guid: ab6dc068b1afaae42a10e75368d6af8d, type: 2}
-=======
-  m_Motion: {fileID: 7400000, guid: 669f5428a97c9e0438deeacb70372447, type: 2}
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+  m_Motion: {fileID: 7400000, guid: d8c9e7a6d93c896448f43563ab0be880, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
-<<<<<<< HEAD
---- !u!1107 &1107818016720538078
-=======
---- !u!1107 &1107800882428535180
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+--- !u!1107 &1107670625771229144
 AnimatorStateMachine:
   serializedVersion: 5
   m_ObjectHideFlags: 1
@@ -74,11 +58,7 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-<<<<<<< HEAD
-    m_State: {fileID: 1102229114000588120}
-=======
-    m_State: {fileID: 1102172058874010586}
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+    m_State: {fileID: 1102632289388526990}
     m_Position: {x: 200, y: 0, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
@@ -89,8 +69,4 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-<<<<<<< HEAD
-  m_DefaultState: {fileID: 1102229114000588120}
-=======
-  m_DefaultState: {fileID: 1102172058874010586}
->>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
+  m_DefaultState: {fileID: 1102632289388526990}

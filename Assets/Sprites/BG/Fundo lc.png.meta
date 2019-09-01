@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7740dd77586932a46bf935951d662b1d
+=======
+<<<<<<< HEAD:Assets/Sprites/BG/Level Complete3.png.meta
+guid: 381881b9f40633d43994a8a0da3ee016
+=======
+guid: bcfd206738136c545978e01fe699f23f
+>>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362:Assets/Sprites/BG/Fundo lc.png.meta
+>>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -75,7 +83,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 64f3f9b52adeaa34b9572680f9424f1c
+=======
+<<<<<<< HEAD:Assets/Sprites/BG/Level Complete3.png.meta
+    spriteID: 0b4376063db9b14438bb10a8139d1bc6
+=======
+    spriteID: 2fa4c2ba5b0cb2a4f86fff9df7b91437
+>>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362:Assets/Sprites/BG/Fundo lc.png.meta
+>>>>>>> 4de1668c5a8c4a7ff3b1cb04cd26a6da48054362
     vertices: []
     indices: 
     edges: []
