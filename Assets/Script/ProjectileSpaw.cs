@@ -28,4 +28,9 @@ public class ProjectileSpaw : MonoBehaviour
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+  
+>>>>>>> 4c0c45b1464b83e09a9760d1c55e5e71164107a8

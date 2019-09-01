@@ -145,11 +145,11 @@ Tilemap:
   - m_RefCount: 3
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.95075303, g: 0.53715664, b: 0.56462556, a: 1}
+    m_Data: {r: 0.7809646, g: 0.4439636, b: 0.4582741, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.7356724, g: 0.38991293, b: 0.46240553, a: 1}
+    m_Data: {r: 0.7697524, g: 0.36966836, b: 0.4118792, a: 1}
   - m_RefCount: 1
-    m_Data: {r: 0.9203269, g: 0.4620712, b: 0.5934519, a: 1}
+    m_Data: {r: 0.9165214, g: 0.5800433, b: 0.65560997, a: 1}
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: 0, y: 0, z: 0}

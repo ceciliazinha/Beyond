@@ -7,7 +7,11 @@ TagManager:
   - Collectables
   - Ghost
   - Gift
+<<<<<<< HEAD
   - Projectiles
+=======
+  - Projectile
+>>>>>>> 4c0c45b1464b83e09a9760d1c55e5e71164107a8
   layers:
   - Default
   - TransparentFX
